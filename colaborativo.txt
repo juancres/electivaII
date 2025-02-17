@@ -1,0 +1,2 @@
+"Línea 1: Hola, este es un archivo colaborativo." 
+"Línea 2: Esta es otra línea de ejemplo." 
